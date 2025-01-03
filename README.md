@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Izuegbu Ifeanyi</h1>
 <h3 align="center">“Web Developer | Aspiring Mobile Developer | Skilled in PHP, Laravel, Alpine.js, Livewire, Tailwind, Vue.js | Exploring Next.js & Flutter | Proficient in AWS & Cloud Computing”</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=finify" alt="finify" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Next**
 
